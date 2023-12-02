@@ -1,7 +1,7 @@
 # AOC-2023
 
-- [x] Day 1 : [python](day1/python/aoc1.py)
-- [x] Day 2 : [python](day2/python/aoc2.py)
+- [x] Day 1 : [python](solutions/day1/python/aoc1.py)
+- [x] Day 2 : [python](solutions/day2/python/aoc2.py)
 - [ ] Day 3 :
 - [ ] Day 4 :
 - [ ] Day 5 :
