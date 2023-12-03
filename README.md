@@ -2,7 +2,7 @@
 
 - [x] Day 1 : [python](solutions/day1/python/aoc1.py)
 - [x] Day 2 : [python](solutions/day2/python/aoc2.py)
-- [ ] Day 3 :
+- [x] Day 3 : [python](solutions/day2/python/aoc3.py)
 - [ ] Day 4 :
 - [ ] Day 5 :
 - [ ] Day 6 :
