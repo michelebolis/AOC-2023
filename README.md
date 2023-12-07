@@ -1,27 +1,9 @@
 # AOC-2023
 
-- [x] Day 1 : [python](solutions/day1/python/aoc1.py)
-- [x] Day 2 : [python](solutions/day2/python/aoc2.py)
-- [x] Day 3 : [python](solutions/day3/python/aoc3.py)
-- [ ] Day 4 :
-- [ ] Day 5 :
-- [ ] Day 6 :
-- [ ] Day 7 :
-- [ ] Day 8 :
-- [ ] Day 9 :
-- [ ] Day 10:
-- [ ] Day 11:
-- [ ] Day 12:
-- [ ] Day 13:
-- [ ] Day 14:
-- [ ] Day 15:
-- [ ] Day 16:
-- [ ] Day 17:
-- [ ] Day 18:
-- [ ] Day 19:
-- [ ] Day 10:
-- [ ] Day 21:
-- [ ] Day 22:
-- [ ] Day 23:
-- [ ] Day 24:
-- [ ] Day 25:
+⭐⭐ Day 1 : [python](solutions/day1/python/aoc1.py)  
+⭐⭐ Day 2 : [python](solutions/day2/python/aoc2.py)  
+⭐⭐ Day 3 : [python](solutions/day3/python/aoc3.py)  
+⭐⭐ Day 4 : [python](solutions/day4/python/aoc4.py)  
+⭐⭐ Day 5 : [python](solutions/day5/python/aoc5.py)  
+⭐⭐ Day 6 : [python](solutions/day6/python/aoc6.py)  
+⭐⭐ Day 7 : [python](solutions/day7/python/aoc7.py)
